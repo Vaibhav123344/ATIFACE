@@ -1,10 +1,6 @@
 
 # Face based attendance system using python and openCV
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
-[![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/) 
-
-
 
 ### Project flow & explaination
 - After you run the project you have to register your face so that system can identify you, so click on register new student
